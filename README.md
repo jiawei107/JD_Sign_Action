@@ -26,6 +26,7 @@
 
 ## 使用用法
 * 点击右上角 `Fork` 项目；
+
 * `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；
 	- `JD_COOKIE`：账号1Cookie
 	- `JD_DUAL_COOKIE`：账号2Cookie(选填)
@@ -49,8 +50,6 @@
 * 菜单栏`发送消息`拷贝SCKEY；
 
 
-
-## 效果截图
 
 ![WechatIMG3](./images/WechatIMG3.jpeg)
 
